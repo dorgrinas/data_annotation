@@ -13,39 +13,6 @@ This project focuses on data annotation and bounding box normalization for image
 
 ---
 
-## Table of Contents
-- [Overview](#overview)
-- [Usage](#usage)
-- [File Descriptions](#file-descriptions)
-- [Example Output](#example-output)
-
-
----
-
-## Usage
-
-### Steps to run the project:
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/data-annotation.git
-   cd data-annotation
-   ```
-
-2. Add your image (in this case, an image named `image.jpg`) in the root folder.
-
-3. To run the script, execute the following command:
-   ```bash
-   python annotation.py
-   ```
-
-4. After running, the following files will be generated:
-   - **normalized_bounding_boxes.csv**: Contains the normalized bounding box data.
-   - **converted_image_annotation.json**: Contains the converted bounding box format.
-   - **image_annotation.json**: Contains the original annotation data.
-
-5. The script will also display the bounding boxes visually on the image.
-
 ---
 
 ## File Descriptions
@@ -63,4 +30,4 @@ This project focuses on data annotation and bounding box normalization for image
 
 ---
 
-Feel free to modify and adjust the `README.md` file as needed for your project. Let me know if you need further adjustments!
+
