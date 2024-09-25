@@ -1,0 +1,23 @@
+{
+    "image_name": "image.jpg",
+    "annotations": [
+        {
+            "label": "Player",
+            "coordinates": {
+                "x_min": 150,
+                "y_min": 20,
+                "x_max": 450,
+                "y_max": 540
+            }
+        },
+        {
+            "label": "Ball",
+            "coordinates": {
+                "x_min": 410,
+                "y_min": 450,
+                "x_max": 500,
+                "y_max": 540
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "image_name": "image.jpg",
+    "annotations": [
+        {
+            "label": "Player",
+            "x_min": 150,
+            "y_min": 20,
+            "width": 300,
+            "height": 520
+        },
+        {
+            "label": "Ball",
+            "x_min": 410,
+            "y_min": 450,
+            "width": 90,
+            "height": 90
+        }
+    ]
+}
