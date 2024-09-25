@@ -15,24 +15,10 @@ This project focuses on data annotation and bounding box normalization for image
 
 ## Table of Contents
 - [Overview](#overview)
-- [Installation](#installation)
 - [Usage](#usage)
 - [File Descriptions](#file-descriptions)
 - [Example Output](#example-output)
 
----
-
-## Installation
-
-To run this project, ensure you have the following dependencies installed:
-
-### Prerequisites
-1. **Python 3.x** (You can download it from [here](https://www.python.org/downloads/))
-2. Install the required Python libraries by running:
-
-```bash
-pip install pandas matplotlib pillow
-```
 
 ---
 
