@@ -72,37 +72,6 @@ pip install pandas matplotlib pillow
 
 ---
 
-## Example Output
-
-1. **CSV File Output** (`normalized_bounding_boxes.csv`):
-   ```
-   label,x_min,y_min,x_max,y_max
-   Player,0.25,0.05,0.75,0.9
-   Ball,0.6833,0.8333,0.8333,0.9
-   ```
-
-2. **JSON File Output** (`converted_image_annotation.json`):
-   ```json
-   {
-       "image_name": "image.jpg",
-       "annotations": [
-           {
-               "label": "Player",
-               "x_min": 150,
-               "y_min": 20,
-               "width": 300,
-               "height": 520
-           },
-           {
-               "label": "Ball",
-               "x_min": 410,
-               "y_min": 450,
-               "width": 90,
-               "height": 90
-           }
-       ]
-   }
-   ```
 
 3. **Bounding Box Visualization**: The script will open a window with the image displayed, and the bounding boxes (e.g., "Player", "Ball") drawn on top of the image.
 
