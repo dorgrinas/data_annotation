@@ -25,7 +25,7 @@ This project focuses on data annotation and bounding box normalization for image
 ---
 
 
-3. **Bounding Box Visualization**: The script will open a window with the image displayed, and the bounding boxes (e.g., "Player", "Ball") drawn on top of the image.
+**Bounding Box Visualization**: The script will open a window with the image displayed, and the bounding boxes (e.g., "Player", "Ball") drawn on top of the image.
 
 ---
 
