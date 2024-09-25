@@ -11,7 +11,6 @@ This project focuses on data annotation and bounding box normalization for image
 - **CSV and JSON Output**: Saves the normalized and converted bounding boxes in CSV and JSON formats.
 - **Bounding Box Visualization**: Draws bounding boxes on the image using `matplotlib`.
 
----
 
 ---
 
